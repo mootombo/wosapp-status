@@ -1,2 +1,3 @@
 # wosapp-status
-webOS Application (wosapp)
+
+Status is a webOS Application (wosapp) to display several environment states
